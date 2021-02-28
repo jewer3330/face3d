@@ -51,6 +51,7 @@
 还有一种方案在我的网盘里，就不方便公开了，包含后续骨骼捏脸的部分，这种方案应该更好。包含了大多数现在MMORPG手游的捏脸需求。
 
 最后给大家看一下成品
+![gif](/xy3yg-nnyr0.gif)
 <video src="./1614489384025723.mp4" width="800px" height="600px" controls="controls"></video>
 看到这里的一定是真爱了，请我喝杯咖啡☕️怎样？  
 ![wechat](/WechatIMG17.jpeg)
@@ -112,6 +113,8 @@ Regarding the part of the pupil color, you can consider using fake eyeballs to a
 There is another solution in my network disk, which is not convenient to disclose, including the part of the subsequent bone pinching face. This solution should be better. Contains most of the current MMORPG mobile game's face pinching needs.
 
 Finally, I will show you the finished product
+![gif](/xy3yg-nnyr0.gif)
+
 <video src="./1614489384025723.mp4" width="800px" height="600px" controls="controls"></video>
 It must be true love to see here. How about a cup of coffee for me?
 ![wechat](/WechatIMG17.jpeg)
