@@ -4,7 +4,7 @@ The first step is to get the face mesh through the ios device. This one has an i
 After obtaining the Mesh, it is naturally stitched. You can see the picture below. The main thing to pay attention to is the point-to-point stitching and adding surface. If you don't understand, you can ask your art friends around you.   
 At the same time, get the photo at this time and calculate the UV.
 
-preview  
+Preview  
 
 ![13](./13.png)
 
@@ -12,11 +12,14 @@ preview
 The above model can be said to have taken the first step, but it is still very frustrated. There are acne marks on the face, which is definitely not good.   
 Therefore, we have to perform normal whitening and dermabrasion. There are also related articles for reference, such as surface blur, edge preserving filter, and O(1)-based surface blur. Of course, you can also directly use a third-party whitening library to solve the problem.  
 The following is a preview of the algorithm and whitening developed by myself.
-preview  
+Preview  
+
 ![10](./10.png)
-preview  
+Preview  
+
 ![11](./11.png)
-preview  
+Preview  
+
 ![12](./12.png)
 
 ## Step 3 The facial features are preserved, made by Mask
@@ -25,7 +28,7 @@ The whitening power is too large, or whitening occurs, that is, the key features
 Note that the surface fuzzification is actually a kind of edge-preserving filter. The whitening mentioned here means that the brightening of the color is worth the operation. It can be adjusted by the L value in the HSL, so how to solve the overall problem of over-white or over-black?  
 The third part is the recognition of the key points of the face. Most of the face recognition plug-ins on the market have 108 recognition. Below is a picture that is particularly happy, which is the figure after the key points of the face are stitched into a surface. .
 
-preview  
+Preview  
 
 ![6](./6.png)
 
@@ -50,14 +53,17 @@ Preview
 ## Step 6 Preserve the details of the facial features through the Mask map
 Color the lips  
 You can take a look at the effect in the picture below. Although the skin color is burst, but the eyebrows and mouth are basically retained.
-male  
+Male  
+
 ![9](./9.png)
 Female   
+
 ![5](./5.png)
 
 ## Step 7 Detect the dirty area through the skin color detection algorithm
 When taking pictures, there is no guarantee that the user will not be able to take pictures of hair, or that the light is not good, and the picture is too dark, so it is also important to prompt the dirty area.  
 Preview  
+
 ![4](./4.png)
 
 ## Step 8 Machine learning algorithm removes light from photos
@@ -69,5 +75,6 @@ Regarding the part of the pupil color, you can consider using fake eyeballs to a
 
 
 
-Finally, I will show you the finished product
+Finally, I will show you the finished product  
+
 ![gif](./xy3yg-nnyr0.gif)
