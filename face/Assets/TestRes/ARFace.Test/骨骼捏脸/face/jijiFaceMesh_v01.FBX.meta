@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 0ae84e6ca36a049e6ad0780149e0aa1d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: apple muscle_left
+    100002: apple muscle_right
+    100004: Bip001
+    100006: Bip001 Head
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger01
+    100016: Bip001 L Finger02
+    100018: Bip001 L Finger1
+    100020: Bip001 L Finger11
+    100022: Bip001 L Finger12
+    100024: Bip001 L Finger2
+    100026: Bip001 L Finger21
+    100028: Bip001 L Finger22
+    100030: Bip001 L Finger3
+    100032: Bip001 L Finger31
+    100034: Bip001 L Finger32
+    100036: Bip001 L Finger4
+    100038: Bip001 L Finger41
+    100040: Bip001 L Finger42
+    100042: Bip001 L Foot
+    100044: Bip001 L Forearm
+    100046: Bip001 L ForeTwist
+    100048: Bip001 L Hand
+    100050: Bip001 L Thigh
+    100052: Bip001 L Toe0
+    100054: Bip001 L UpperArm
+    100056: Bip001 Neck
+    100058: Bip001 Pelvis
+    100060: Bip001 Prop1
+    100062: Bip001 Prop2
+    100064: Bip001 R Calf
+    100066: Bip001 R Clavicle
+    100068: Bip001 R Finger0
+    100070: Bip001 R Finger01
+    100072: Bip001 R Finger02
+    100074: Bip001 R Finger1
+    100076: Bip001 R Finger11
+    100078: Bip001 R Finger12
+    100080: Bip001 R Finger2
+    100082: Bip001 R Finger21
+    100084: Bip001 R Finger22
+    100086: Bip001 R Finger3
+    100088: Bip001 R Finger31
+    100090: Bip001 R Finger32
+    100092: Bip001 R Finger4
+    100094: Bip001 R Finger41
+    100096: Bip001 R Finger42
+    100098: Bip001 R Foot
+    100100: Bip001 R Forearm
+    100102: Bip001 R ForeTwist
+    100104: Bip001 R Hand
+    100106: Bip001 R Thigh
+    100108: Bip001 R Toe0
+    100110: Bip001 R UpperArm
+    100112: Bip001 Spine
+    100114: Bip001 Spine1
+    100116: Bip001 Spine2
+    100118: bq_Bone Eye L
+    100120: bq_Bone Eye R
+    100122: bq_Bone mouth down
+    100124: bq_Bone mouth up
+    100126: bq_corner_mouth_left
+    100128: bq_corner_mouth_right
+    100130: bq_external_canthus_left
+    100132: bq_external_canthus_right
+    100134: bq_Eye_Look_L
+    100136: bq_Eye_Look_R
+    100138: bq_head_eyebrow_left
+    100140: bq_head_eyebrow_right
+    100142: bq_inner_canthus_left
+    100144: bq_inner_canthus_right
+    100146: bq_lower_eyelid_left
+    100148: bq_lower_eyelid_right
+    100150: bq_lower_lip
+    100152: bq_lower_lipside_L
+    100154: bq_lower_lipside_R
+    100156: bq_tail_eyebrow_left
+    100158: bq_tail_eyebrow_right
+    100160: bq_upper_eyelid_left
+    100162: bq_upper_eyelid_right
+    100164: bq_upper_lip
+    100166: bq_upper_lipside_L
+    100168: bq_upper_lipside_R
+    100170: bridge_nose
+    100172: cheekbone_left
+    100174: cheekbone_right
+    100176: chest_buff
+    100178: chest_nlink
+    100180: corner_mouth_left
+    100182: corner_mouth_right
+    100184: default
+    100186: ear_lap_left
+    100188: ear_lap_right
+    100190: ear_pinna_left
+    100192: ear_pinna_right
+    100194: external_canthus_left
+    100196: external_canthus_right
+    100198: eye
+    100200: eye_left
+    100202: Eye_Look_L
+    100204: Eye_Look_R
+    100206: eye_right
+    100208: EyeBall_L
+    100210: EyeBall_R
+    100212: eyebrow_center
+    100214: eyebrow_left
+    100216: eyebrow_right
+    100218: eyelash
+    100220: face_left
+    100222: face_right
+    100224: foot_buff
+    100226: forehead
+    100228: head
+    100230: head_eyebrow_left
+    100232: head_eyebrow_right
+    100234: head_nose
+    100236: inner_canthus_left
+    100238: inner_canthus_right
+    100240: jaw
+    100242: jaw_left
+    100244: jaw_right
+    100246: jijiFaceMesh_root
+    100248: //RootNode
+    100250: lower_eyelid_left
+    100252: lower_eyelid_right
+    100254: lower_jaw_left
+    100256: lower_jaw_right
+    100258: lower_lip
+    100260: lower_lipside_L
+    100262: lower_lipside_R
+    100264: lower_nose
+    100266: mouth
+    100268: nose
+    100270: nosewing_left
+    100272: nosewing_right
+    100274: tail_eyebrow_left
+    100276: tail_eyebrow_right
+    100278: upper_eyelid_left
+    100280: upper_eyelid_right
+    100282: upper_lip
+    100284: upper_lipside_L
+    100286: upper_lipside_R
+    400000: apple muscle_left
+    400002: apple muscle_right
+    400004: Bip001
+    400006: Bip001 Head
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger01
+    400016: Bip001 L Finger02
+    400018: Bip001 L Finger1
+    400020: Bip001 L Finger11
+    400022: Bip001 L Finger12
+    400024: Bip001 L Finger2
+    400026: Bip001 L Finger21
+    400028: Bip001 L Finger22
+    400030: Bip001 L Finger3
+    400032: Bip001 L Finger31
+    400034: Bip001 L Finger32
+    400036: Bip001 L Finger4
+    400038: Bip001 L Finger41
+    400040: Bip001 L Finger42
+    400042: Bip001 L Foot
+    400044: Bip001 L Forearm
+    400046: Bip001 L ForeTwist
+    400048: Bip001 L Hand
+    400050: Bip001 L Thigh
+    400052: Bip001 L Toe0
+    400054: Bip001 L UpperArm
+    400056: Bip001 Neck
+    400058: Bip001 Pelvis
+    400060: Bip001 Prop1
+    400062: Bip001 Prop2
+    400064: Bip001 R Calf
+    400066: Bip001 R Clavicle
+    400068: Bip001 R Finger0
+    400070: Bip001 R Finger01
+    400072: Bip001 R Finger02
+    400074: Bip001 R Finger1
+    400076: Bip001 R Finger11
+    400078: Bip001 R Finger12
+    400080: Bip001 R Finger2
+    400082: Bip001 R Finger21
+    400084: Bip001 R Finger22
+    400086: Bip001 R Finger3
+    400088: Bip001 R Finger31
+    400090: Bip001 R Finger32
+    400092: Bip001 R Finger4
+    400094: Bip001 R Finger41
+    400096: Bip001 R Finger42
+    400098: Bip001 R Foot
+    400100: Bip001 R Forearm
+    400102: Bip001 R ForeTwist
+    400104: Bip001 R Hand
+    400106: Bip001 R Thigh
+    400108: Bip001 R Toe0
+    400110: Bip001 R UpperArm
+    400112: Bip001 Spine
+    400114: Bip001 Spine1
+    400116: Bip001 Spine2
+    400118: bq_Bone Eye L
+    400120: bq_Bone Eye R
+    400122: bq_Bone mouth down
+    400124: bq_Bone mouth up
+    400126: bq_corner_mouth_left
+    400128: bq_corner_mouth_right
+    400130: bq_external_canthus_left
+    400132: bq_external_canthus_right
+    400134: bq_Eye_Look_L
+    400136: bq_Eye_Look_R
+    400138: bq_head_eyebrow_left
+    400140: bq_head_eyebrow_right
+    400142: bq_inner_canthus_left
+    400144: bq_inner_canthus_right
+    400146: bq_lower_eyelid_left
+    400148: bq_lower_eyelid_right
+    400150: bq_lower_lip
+    400152: bq_lower_lipside_L
+    400154: bq_lower_lipside_R
+    400156: bq_tail_eyebrow_left
+    400158: bq_tail_eyebrow_right
+    400160: bq_upper_eyelid_left
+    400162: bq_upper_eyelid_right
+    400164: bq_upper_lip
+    400166: bq_upper_lipside_L
+    400168: bq_upper_lipside_R
+    400170: bridge_nose
+    400172: cheekbone_left
+    400174: cheekbone_right
+    400176: chest_buff
+    400178: chest_nlink
+    400180: corner_mouth_left
+    400182: corner_mouth_right
+    400184: default
+    400186: ear_lap_left
+    400188: ear_lap_right
+    400190: ear_pinna_left
+    400192: ear_pinna_right
+    400194: external_canthus_left
+    400196: external_canthus_right
+    400198: eye
+    400200: eye_left
+    400202: Eye_Look_L
+    400204: Eye_Look_R
+    400206: eye_right
+    400208: EyeBall_L
+    400210: EyeBall_R
+    400212: eyebrow_center
+    400214: eyebrow_left
+    400216: eyebrow_right
+    400218: eyelash
+    400220: face_left
+    400222: face_right
+    400224: foot_buff
+    400226: forehead
+    400228: head
+    400230: head_eyebrow_left
+    400232: head_eyebrow_right
+    400234: head_nose
+    400236: inner_canthus_left
+    400238: inner_canthus_right
+    400240: jaw
+    400242: jaw_left
+    400244: jaw_right
+    400246: jijiFaceMesh_root
+    400248: //RootNode
+    400250: lower_eyelid_left
+    400252: lower_eyelid_right
+    400254: lower_jaw_left
+    400256: lower_jaw_right
+    400258: lower_lip
+    400260: lower_lipside_L
+    400262: lower_lipside_R
+    400264: lower_nose
+    400266: mouth
+    400268: nose
+    400270: nosewing_left
+    400272: nosewing_right
+    400274: tail_eyebrow_left
+    400276: tail_eyebrow_right
+    400278: upper_eyelid_left
+    400280: upper_eyelid_right
+    400282: upper_lip
+    400284: upper_lipside_L
+    400286: upper_lipside_R
+    2100000: 'Material #38'
+    2100002: 'Material #46'
+    2100004: 'Material #39'
+    2100006: defaultMat
+    2300000: default
+    3300000: default
+    4300000: eyelash
+    4300002: head
+    4300004: eye
+    4300006: default
+    9500000: //RootNode
+    13700000: eye
+    13700002: eyelash
+    13700004: head
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 2
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 2
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
